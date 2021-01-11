@@ -1,0 +1,2 @@
+# Project-Simulasi-Pengaturan-Motor-DC-dengan-XBee
+eknologi dari ZigBee sendiri dimaksudkan untuk penggunaan pengiriman data secara wireless yang membutuhkan transmisi data rendah dan juga konsumsi daya rendah, dan juga tidak lebih mahal dibandingkan dengan WPANs lain seperti Bluetooth. Standar ZigBee sendiri lebih banyak diaplikasikan kepada system tertanam (embedded application) seperti pengendalian industri atau pengendali alat lain secara wireless, data logging, dan juga sensor wireless dan lain-lain.
